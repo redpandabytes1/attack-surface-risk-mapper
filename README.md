@@ -71,9 +71,10 @@ asrm/
 │       ├── __init__.py
 │       └── builder.py
 ├── tests/
+│   └── asrm_test.py
 ├── docs/
 │   ├── screenshots/
-│   ├── example_report.md
+│   ├── reports/
 │   ├── schema_notes.md
 │   └── writeup.md
 ├── requirements.txt
