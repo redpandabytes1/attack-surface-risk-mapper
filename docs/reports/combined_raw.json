@@ -1,0 +1,48 @@
+{
+  "sherlock": {
+    "tool": "sherlock",
+    "target": "redpandabytes1",
+    "found": [
+      {
+        "site": "AniWorld",
+        "url": "https://aniworld.to/user/profil/redpandabytes1"
+      },
+      {
+        "site": "ColourLovers",
+        "url": "https://www.colourlovers.com/lover/redpandabytes1"
+      },
+      {
+        "site": "F3.cool",
+        "url": "https://f3.cool/redpandabytes1/"
+      },
+      {
+        "site": "GitHub",
+        "url": "https://www.github.com/redpandabytes1"
+      },
+      {
+        "site": "mastodon.cloud",
+        "url": "https://mastodon.cloud/@redpandabytes1"
+      },
+      {
+        "site": "BabyRu",
+        "url": "https://www.baby.ru/u/redpandabytes1"
+      }
+    ],
+    "errors": []
+  },
+  "theharvester": {
+    "tool": "theharvester",
+    "target": "zonetransfer.me",
+    "hosts": [],
+    "emails": [],
+    "errors": []
+  },
+  "amass": {
+    "tool": "amass",
+    "target": "zonetransfer.me",
+    "subdomains": [],
+    "errors": [
+      "Amass timed out after 400 seconds."
+    ]
+  }
+}

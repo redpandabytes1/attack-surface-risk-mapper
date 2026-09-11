@@ -1,0 +1,22 @@
+
+┌──(speedster㉿speedster)-[~]
+└─$ dig zonetransfer.me
+
+; <<>> DiG 9.20.27-1-Debian <<>> zonetransfer.me
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1869
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;zonetransfer.me.               IN      A
+
+;; ANSWER SECTION:
+zonetransfer.me.        7199    IN      A       5.196.105.14
+
+;; Query time: 776 msec
+;; SERVER: 192.168.122.1#53(192.168.122.1) (UDP)
+;; WHEN: Wed Sep 09 12:58:14 EDT 2026
+;; MSG SIZE  rcvd: 60

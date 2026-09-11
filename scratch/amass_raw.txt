@@ -1,0 +1,9 @@
+[92mzonetransfer.me[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mnsztm1.digi.ninja[0m[94m (FQDN)[0m
+[92mzonetransfer.me[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mnsztm2.digi.ninja[0m[94m (FQDN)[0m
+[92mzonetransfer.me[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92maspmx3.googlemail.com[0m[94m (FQDN)[0m
+[92mzonetransfer.me[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92maspmx5.googlemail.com[0m[94m (FQDN)[0m
+[92mzonetransfer.me[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92maspmx.l.google.com[0m[94m (FQDN)[0m
+[92mzonetransfer.me[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92maspmx2.googlemail.com[0m[94m (FQDN)[0m
+[92mzonetransfer.me[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92malt2.aspmx.l.google.com[0m[94m (FQDN)[0m
+[92mzonetransfer.me[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92maspmx4.googlemail.com[0m[94m (FQDN)[0m
+[92mzonetransfer.me[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92malt1.aspmx.l.google.com[0m[94m (FQDN)[0m

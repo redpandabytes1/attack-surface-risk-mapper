@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><theHarvester><cmd>-d github.com -b crtsh,certspotter,commoncrawl -f th_report</cmd><host>*.github.com</host><host>gist.github.com</host><host>www.github.com</host><host>garage.github.com</host><host>www.github.com</host></theHarvester>

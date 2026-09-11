@@ -1,0 +1,2 @@
+[92mzonetransfer.me[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mnsztm1.digi.ninja[0m[94m (FQDN)[0m
+[92mzonetransfer.me[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mnsztm2.digi.ninja[0m[94m (FQDN)[0m

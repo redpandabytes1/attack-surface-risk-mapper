@@ -1,0 +1,1 @@
+{"cmd":"-d github.com -b crtsh,certspotter,commoncrawl -f th_report","hosts":["*.github.com","garage.github.com","gist.github.com"],"shodan":[]}
