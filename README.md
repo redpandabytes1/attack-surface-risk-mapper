@@ -87,7 +87,7 @@ asrm/
 
 Clone the repository:
 ```bash
-git clone https://github.com/redpandabytes1/attack-surface-risk-mapper.git
+git clone https://github.com/redpandabytes1/Attack-Surface-Risk-Mapper.git
 cd attack-surface-risk-mapper
 ```
 
@@ -112,7 +112,7 @@ python -m aggregator.cli --username <username> --domain <domain> --output report
 
 Example:
 ```bash
-python -m aggregator.cli --username your-github-username --domain example.com --output report.md
+python -m aggregator.cli --username redpandabytes1 --domain zonetransfer.me --output report.md
 ```
 
 ![Example report output](docs/screenshots/report_example.png)
