@@ -87,7 +87,7 @@ asrm/
 
 Clone the repository:
 ```bash
-git clone https://github.com/redpandabytes1/Attack-Surface-Risk-Mapper.git
+git clone https://github.com/redpandabytes1/attack-surface-risk-mapper.git
 cd attack-surface-risk-mapper
 ```
 
@@ -137,7 +137,7 @@ A single-character typo in matching Amass's `RIROrganization` entity type caused
 A discovered hostname, IP, or external service provides attack-surface context without
 proving the target actually controls it or that it's exploitable. The report intentionally stays scoped to observed findings, and the score is a prioritization heuristic - which finding is worth investigating first - not a vulnerability severity rating.
 
-## Roadmap / Future Work
+## Future Work
 
 A few natural next steps, not yet built:
 - **Multi-target support** - run several usernames or domains in a single invocation, extending the `--username`/`--domain` split.
