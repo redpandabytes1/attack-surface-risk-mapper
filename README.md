@@ -87,7 +87,7 @@ asrm/
 
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/attack-surface-risk-mapper.git
+git clone https://github.com/redpandabytes1/attack-surface-risk-mapper.git
 cd attack-surface-risk-mapper
 ```
 
