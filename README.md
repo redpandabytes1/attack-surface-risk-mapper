@@ -1,8 +1,8 @@
-# Attack-Surface Risk-Mapper
+# Attack-Surface Risk Mapper
 
 ## Overview
 
-Attack-Surface Risk-Mapper is a passive OSINT aggregation pipeline that combines Sherlock, theHarvester, and Amass into a single workflow. Instead of treating each tool's output as an isolated dataset, the project normalizes findings into a common schema, correlates results across tools, assigns corroboration-based confidence, applies heuristic priority scoring, and produces a readable Markdown report.
+Attack-Surface Risk Mapper is a passive OSINT aggregation pipeline that combines Sherlock, theHarvester, and Amass into a single workflow. Instead of treating each tool's output as an isolated dataset, the project normalizes findings into a common schema, correlates results across tools, assigns corroboration-based confidence, applies heuristic priority scoring, and produces a readable Markdown report.
 
 I built this because I got tired of running Sherlock, theHarvester, and Amass separately and manually cross-checking what each one found, especially because they expose completely different kinds of data. I wanted to automate that correlation instead of treating each tool's output as an isolated list.
 
